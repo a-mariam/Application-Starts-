@@ -1,0 +1,21 @@
+Index: src/PrimeNumber.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/PrimeNumber.java b/src/PrimeNumber.java
+new file mode 100644
+--- /dev/null	(date 1681232972684)
++++ b/src/PrimeNumber.java	(date 1681232972684)
+@@ -0,0 +1,11 @@
++import java.util.Scanner;
++public class PrimeNumber {
++    Scanner user = new Scanner(System.in);
++    int prime = 0;
++  //  System.out.println("Enter a positive integer")
++    int userInput = user.nextInt();
++ //   if(prime == prime / prime )
++
++
++
++}

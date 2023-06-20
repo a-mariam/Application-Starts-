@@ -635,8 +635,7 @@ public class Nokia3310 {
                         System.out.println("Profiles");
                 }
 
-                String simservices = input.nextLine();
-                switch(simservices){
+                String simservices = input.nextLine();                switch(simservices){
                     case"13":
                         System.out.println("SIM service");
                 }

@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f98c4e2-2763-4c88-84ca-28c81480745a" name="Changes" comment="Nokia3310">
-      <change afterPath="$PROJECT_DIR$/src/Chapter6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nokia3310BackOption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nokia3310Backoption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Assignment/Contacts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Assignment/Phonebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Assignment/PhonebookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PhoneBookApp/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PhoneBookApp/PhoneBookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PhoneBookApp/PhoneBooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PhoneBookApp/PhoneBooksTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sudoku.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Nokia3310.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nokia3310.java" afterDir="false" />
     </list>
@@ -23,9 +29,14 @@
       <option value="module" />
     </option>
   </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="4" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../JavaComprehensionAssignment/exportToHTML" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -49,65 +60,133 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2O6OakiDAIP5wVJ4NbBoMC6SEWF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/user/gems_exercises",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/user/gems_exercises&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory",
-      "module"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;
     ]
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Nokia3310Backoption">
-    <configuration name="Chapter6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter6" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="PhoneBookApp" />
+      <recent name="OOP_Assignment" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="PhoneBookApp" />
+      <recent name="OOP_Assignment" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PhoneBooksTest.testThat_PhoneBooks_GenerateId_ForPhoneBook">
+    <configuration name="Sudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sudoku" />
       <module name="Assignment" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nokia3310" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nokia3310" />
+    <configuration name="PhoneBooksTest.testThat_IsEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PhoneBookApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PhoneBookApp" />
+      <option name="MAIN_CLASS_NAME" value="PhoneBookApp.PhoneBooksTest" />
+      <option name="METHOD_NAME" value="testThat_IsEmpty" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nokia3310Backoption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nokia3310Backoption" />
+    <configuration name="PhoneBooksTest.testThat_PhoneBook_CanBe_Created" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PhoneBookApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PhoneBookApp" />
+      <option name="MAIN_CLASS_NAME" value="PhoneBookApp.PhoneBooksTest" />
+      <option name="METHOD_NAME" value="testThat_PhoneBook_CanBe_Created" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nokia3310Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nokia3310Two" />
+    <configuration name="PhoneBooksTest.testThat_PhoneBooks_GenerateId_ForPhoneBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PhoneBookApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PhoneBookApp" />
+      <option name="MAIN_CLASS_NAME" value="PhoneBookApp.PhoneBooksTest" />
+      <option name="METHOD_NAME" value="testThat_PhoneBooks_GenerateId_ForPhoneBook" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhonebookTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP_Assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="OOP_Assignment" />
+      <option name="MAIN_CLASS_NAME" value="OOP_Assignment.PhonebookTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Nokia3310Backoption" />
-        <item itemvalue="Application.Chapter6" />
-        <item itemvalue="Application.Nokia3310" />
-        <item itemvalue="Application.Nokia3310Two" />
+        <item itemvalue="JUnit.PhoneBooksTest.testThat_PhoneBooks_GenerateId_ForPhoneBook" />
+        <item itemvalue="Application.Sudoku" />
+        <item itemvalue="JUnit.PhoneBooksTest.testThat_PhoneBook_CanBe_Created" />
+        <item itemvalue="JUnit.PhoneBooksTest.testThat_IsEmpty" />
+        <item itemvalue="JUnit.PhonebookTest" />
       </list>
     </recent_temporary>
   </component>
@@ -142,6 +221,34 @@
       <workItem from="1682831517109" duration="4940000" />
       <workItem from="1682873648484" duration="41000" />
       <workItem from="1683011354064" duration="881000" />
+      <workItem from="1684234069648" duration="358000" />
+      <workItem from="1684339490423" duration="1946000" />
+      <workItem from="1685353152094" duration="599000" />
+      <workItem from="1685414694982" duration="307000" />
+      <workItem from="1685427920612" duration="599000" />
+      <workItem from="1685466110916" duration="599000" />
+      <workItem from="1685537413842" duration="599000" />
+      <workItem from="1685554438647" duration="598000" />
+      <workItem from="1685795011001" duration="599000" />
+      <workItem from="1685894485790" duration="599000" />
+      <workItem from="1685966414670" duration="599000" />
+      <workItem from="1685993596037" duration="599000" />
+      <workItem from="1685995612763" duration="599000" />
+      <workItem from="1686014476752" duration="599000" />
+      <workItem from="1686313877230" duration="599000" />
+      <workItem from="1686431244315" duration="632000" />
+      <workItem from="1686532396060" duration="6166000" />
+      <workItem from="1686587851289" duration="4555000" />
+      <workItem from="1686656387260" duration="599000" />
+      <workItem from="1686702351712" duration="1960000" />
+      <workItem from="1686912729699" duration="782000" />
+      <workItem from="1686921851843" duration="599000" />
+      <workItem from="1687022145817" duration="1392000" />
+      <workItem from="1687041661164" duration="599000" />
+      <workItem from="1687083914259" duration="8965000" />
+      <workItem from="1687156806698" duration="2689000" />
+      <workItem from="1687212419919" duration="2910000" />
+      <workItem from="1687264290219" duration="676000" />
     </task>
     <task id="LOCAL-00001" summary="Nokia3310">
       <created>1680899657661</created>
@@ -262,6 +369,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Nokia3310" />
     <option name="LAST_COMMIT_MESSAGE" value="Nokia3310" />
   </component>

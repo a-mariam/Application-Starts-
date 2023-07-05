@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f98c4e2-2763-4c88-84ca-28c81480745a" name="Changes" comment="Nokia3310">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_Assignment/Contactss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_Assignment/Phonebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_Assignment/PhonebookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PhoneBookApp/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PhoneBookApp/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PhoneBookApp/PhoneBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PhoneBookApp/PhoneBookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PhoneBookApp/PhoneBooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PhoneBookApp/PhoneBooksTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentGrades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentGrades/StudentGrades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentGrades/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sudoku.java" afterDir="false" />
+    <list default="true" id="9f98c4e2-2763-4c88-84ca-28c81480745a" name="Changes" comment="mm">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +38,8 @@
     </option>
     <option name="PUSH_TAGS">
       <GitPushTagMode>
-        <option name="argument" value="--follow-tags" />
-        <option name="title" value="Current Branch" />
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -386,7 +370,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
